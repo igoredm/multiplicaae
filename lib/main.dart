@@ -1,3 +1,9 @@
+// Trabalho flutter programação mobile
+
+// Igor Ehlert Del Maschio - 11710374
+// Vinícius Gomes - 11710390
+
+
 import 'dart:async';
 
 import 'package:flutter/cupertino.dart';
@@ -258,7 +264,7 @@ class _MyHomePageState extends State<MyHomePage> {
         },
         tooltip: 'Increment',
         child: Icon(Icons.check),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
+      ),
     );
   }
 }
